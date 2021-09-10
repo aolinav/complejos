@@ -10,5 +10,5 @@ class Principal {
     }
 
     /*Probando GIT creando nueva rama
-    * prueba 1*/
+    * prueba 2*/
 }
